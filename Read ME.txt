@@ -1,5 +1,0 @@
-Libraries required for the Keylogger to work.
-
-pyHook: http://sourceforge.net/projects/pyhook/files/
-pywin32: http://sourceforge.net/projects/pywin32/
-pysystray: http://sourceforge.net/projects/pysystray/
